@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Lato Hairline'), local('Lato-Hairline'), url(http://fonts.gstatic.com/s/lato/v11/vhtyQldbm6hR1oTZdtDAeQ.woff2) format('woff2'), url(http://fonts.gstatic.com/s/lato/v11/mxYHCe9h99dgbtHWLb15UQ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(http://fonts.gstatic.com/s/lato/v11/puqvkRcb0KEzqeLRHcd-Lw.woff2) format('woff2'), url(http://fonts.gstatic.com/s/lato/v11/SrH4OiQlr11FDKIskY9CXQ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(http://fonts.gstatic.com/s/lato/v11/5cEsi3H8QJMZuBYYcGf1aQ.woff2) format('woff2'), url(http://fonts.gstatic.com/s/lato/v11/gvU2Gsy-6VVrDSxbk9hveQ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(http://fonts.gstatic.com/s/lato/v11/E-DsM9IO8CfVgpCw7-iBrQ.woff2) format('woff2'), url(http://fonts.gstatic.com/s/lato/v11/RiA0RoXNC0igSSh9RLYT1g.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Lato Black'), local('Lato-Black'), url(http://fonts.gstatic.com/s/lato/v11/GWws5ww3Z5p_yBPgp2JWBQ.woff2) format('woff2'), url(http://fonts.gstatic.com/s/lato/v11/nH4iWPTNejFfjJAKbGZovg.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 100;
+  src: local('Lato Hairline Italic'), local('Lato-HairlineItalic'), url(http://fonts.gstatic.com/s/lato/v11/QsRPWYuEJPa7LiDl-OPdDQ.woff2) format('woff2'), url(http://fonts.gstatic.com/s/lato/v11/vHC59XngVihXV7znfFzqcw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Lato Light Italic'), local('Lato-LightItalic'), url(http://fonts.gstatic.com/s/lato/v11/2sPM2SDC1sEBmRo5Q8w8Nw.woff2) format('woff2'), url(http://fonts.gstatic.com/s/lato/v11/yuKj1P-OjCQ4RKPYxOZQjQ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url(http://fonts.gstatic.com/s/lato/v11/I-JCFQcfqfU8BvTu2REbcQ.woff2) format('woff2'), url(http://fonts.gstatic.com/s/lato/v11/AOEocLZj9wJ8DAE8AlYeJg.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(http://fonts.gstatic.com/s/lato/v11/lFM3bLvlrayI80m-vVfE0Q.woff2) format('woff2'), url(http://fonts.gstatic.com/s/lato/v11/V0sUsnlHcmNDz5WQ_D0v8Q.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 900;
+  src: local('Lato Black Italic'), local('Lato-BlackItalic'), url(http://fonts.gstatic.com/s/lato/v11/DV1yVoyC5u1Z0x3GyHRbGQ.woff2) format('woff2'), url(http://fonts.gstatic.com/s/lato/v11/dbf0W1sjisQrUik13gG-UA.woff) format('woff');
+}
