@@ -953,44 +953,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
 		
 		</script>
 		
-			<script type="text/javascript" class="instapage-noscrap">
-				ijQuery( document ).on( 'ready', function()
-				{
-					var instapage_landing = "instapage-visit-442511";
-					var visited = ijQuery.cookie( instapage_landing );
-					var protocol = '//';
-					var server = 'app.instapage.com';
-					var path = '/ajax/pageserver/stats/visitor-pixel/';
-					var id = '442511';
-					var version = '37';
-					var variation = 'B';
-					var time = '16';
-
-					if ( !visited )
-					{
-												if( window.__mobile_version === 2 && window.innerWidth < 600 && variation.indexOf( '-mobile' ) < 0 )
-						{
-							variation += '-mobile';
-						}
-
-												var image = ijQuery( '<img>' ).attr
-						({
-							src: protocol + server + path + id + '/' + version + '/'  + variation + '/'  + time + '/analytics.png',
-							width: 1,
-							height: 1,
-							alt: "",
-							title: "",
-							style: 'display: table-cell; height: 0;'
-						});
-
-						ijQuery( 'body' ).append( image );
-					}
-				});
-			</script>
-			<noscript class="instapage-noscrap">
-				<img href="//app.instapage.com/ajax/pageserver/stats/visitor-pixel/442511/37/B/16" >
-			</noscript>
-		
+			
 		<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
