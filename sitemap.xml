@@ -8,6 +8,18 @@
 
 <url>
   <loc>http://doovery.com/</loc>
-  <lastmod>2015-08-24T01:04:04+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://doovery.com/offers</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://doovery.com/about</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://doovery.com/doo</loc>
+  <changefreq>weekly</changefreq>
 </url>
 </urlset>
